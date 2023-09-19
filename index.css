@@ -16,7 +16,11 @@ h1 {
 }
 
 button {
+<<<<<<< HEAD
     color: #0e8e47;
+=======
+    color: #0c7d91;
+>>>>>>> 98b632a (new)
     width: 150px;
     background: goldenrod;
     padding-top: 5px;
